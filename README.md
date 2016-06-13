@@ -1,5 +1,5 @@
 # CNCSTEPPER
-Essa é uma biblioteca para Arduino para controlar motores de passo modo bipolar usando o ci de ponte H dupla L298. 
+Essa é uma biblioteca para Arduino para controlar vários motores de passo "ao mesmo tempo" e com velocidades diferentes em modo bipolar usando o CI de ponte H dupla L298. 
 ### Como usar
 ``` arduino
 #include "CNCStepper.h"
